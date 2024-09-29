@@ -5,3 +5,5 @@ account_id = ""
 workers_dev = true
 
 vars = { AWS_ACCESS_KEY_ID = "", AWS_SECRET_ACCESS_KEY = "", AWS_DEFAULT_REGION = "", AWS_S3_BUCKET = ""}
+
+compatibility_date = "2024-09-29"
